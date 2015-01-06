@@ -1,0 +1,27 @@
+{
+  "name": "rdpanek",
+  "version": "1.0.0",
+  "description": "Private web",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "casper-chai": "^0.2.1",
+    "casperjs": "^1.1.0-beta3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdpanek/rdpanekcz.git"
+  },
+  "author": "Radim Daniel Pánek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdpanek/rdpanekcz/issues"
+  },
+  "homepage": "https://github.com/rdpanek/rdpanekcz"
+}
