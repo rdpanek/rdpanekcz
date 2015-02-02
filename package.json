@@ -12,7 +12,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "casperjs test tests/main.test.coffee --ssl-protocol=tlsv1"
+    "test": "casperjs test tests/main.test.js --ssl-protocol=tlsv1"
   },
   "repository": {
     "type": "git",

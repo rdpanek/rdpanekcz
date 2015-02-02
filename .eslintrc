@@ -1,0 +1,18 @@
+{
+  "ecmaFeatures": {
+    "blockBindings": true,
+    "forOf": true,
+    "jsx": true
+  },
+  "rules": {
+    "semi": 2,
+    "quotes": [2, "double"]
+  },
+  "globals": {
+    //"require": true,
+    "casper": true
+  },
+  "env": {
+    "node": true
+  }
+}
